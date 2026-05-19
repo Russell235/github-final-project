@@ -1,0 +1,11 @@
+
+curl -L \
+-H "Accept: application/vnd.github+json" \
+-H "Authorization: Bearer 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" \
+https://api.github.com/repos/Russell235/mcino-Introduction-to-Git-and-GitHub/pulls 
+
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/pulls/pulls#list-pull-requests",
+  "status": "404"
+}

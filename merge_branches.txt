@@ -1,0 +1,5 @@
+Already on 'main'
+A	forked-repo.txt
+A	merge_branches.txt
+Your branch is up to date with 'origin/main'.
+merge: bug-fix-typo - not something we can merge
