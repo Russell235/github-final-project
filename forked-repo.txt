@@ -1,2 +1,2 @@
 
-curl -L -H "Accept: application/vnd.github+json" -H "Authorization: Bearer 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" -H "X-GitHub-Api-Version: 2022-11-28" -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+curl -L -H "Accept: application/vnd.github+json" -H "Authorization: Bearer " -H "X-GitHub-Api-Version: 2022-11-28" -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
