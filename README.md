@@ -1,1 +1,1 @@
-Git user interface and git command line interface 
+git interface and git cli we should complete test such as forking a repository, cloning it locally, making updates ,staging and committing changes, pushing changs to your remote fork, and creating a pull request.
