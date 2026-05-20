@@ -1,26 +1,21 @@
-# Contributing Guide
+# Contributing
 
 Thank you for considering contributing to this project! 🎉
 
-We welcome all types of contributions, including:
+We welcome the following types of contributions:
 
 - Bug reports
 - Bug fixes
 - Documentation improvements
 - Enhancements
-- New ideas and suggestions
+- Ideas
 
-Your contributions help improve the project and make it better for everyone.
-
----
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
 
 ### 1. Fork the Repository
-
-Create your own copy of the repository by clicking the **Fork** button on GitHub.
-
----
+Create your own copy of the repository by clicking the Fork button on GitHub.
 
 ### 2. Clone the Repository
 
